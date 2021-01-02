@@ -1,6 +1,3 @@
-#!/usr/bin/env python
-# coding: utf-8
-
 # # The Sparks Foundation
 
 # ## Data Science & Business Analytics Internship
