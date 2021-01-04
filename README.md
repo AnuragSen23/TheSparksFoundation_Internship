@@ -10,8 +10,8 @@ This Task focuses on the Prediction of Scores achieved by students using Linear 
 
 **Required Libraries**
 
-pandas
+• pandas
 
-matplotlib.pyplot
+• matplotlib.pyplot
 
-linear_model from sklearn
+• linear_model from sklearn
