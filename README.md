@@ -6,7 +6,12 @@ This repository contains all tasks completed as part of The Sparks Foundation Da
 
 This Task focuses on the Prediction of Scores achieved by students using Linear Regression. For this task, we applied Linear Regression for predicting the student's percentage based on the number of study hours. 
 
-**Video(YouTube) link**: https://youtu.be/Y-aZA06IL_Y
+**Task 2 : Prediction using Unsupervised ML** 
+
+This task focuses on the ‘Iris’ dataset, and predicts the optimum number of clusters and represents it visually. For the catagorization, K-Means Algorithm was employed.
+
+
+**Video(YouTube) link**: Task1: https://youtu.be/Y-aZA06IL_Y
 
 **Required Libraries**
 
@@ -14,4 +19,4 @@ This Task focuses on the Prediction of Scores achieved by students using Linear 
 
 • matplotlib.pyplot
 
-• linear_model from sklearn
+• linear_model, KMeans and datasets from sklearn
